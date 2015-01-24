@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img_bg_001"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.reyurnible.syncronizeddrivind.SettingActivity" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="車ID:"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/primary_text" />
+
+    <EditText
+        android:id="@+id/setting_edittext_id"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:background="@drawable/bg_card"
+        android:ems="10"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:text="001"
+        android:textColor="@color/primary_text" />
+
+    <Button
+        android:id="@+id/setting_button_regist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:background="@drawable/bg_button_white"
+        android:text="登録"
+        android:textColor="@color/primary_gray" />
+
+</LinearLayout>

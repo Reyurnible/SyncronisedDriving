@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#ff0000</color>
+    <color name="primary_alpha">#88ff0000</color>
+    
+    <color name="primary_orange">#ffaa00</color>
+    <color name="primary_blue">#0050ff</color>
+    <color name="primary_cyan">#0090ff</color>
+    <color name="primary_cyan_alpha">#880090ff</color>
+    <color name="primary_gray">#999999</color>
+    <color name="primary_black">#000000</color>
+    
+    <color name="primary_text">#fff</color>
+</resources>

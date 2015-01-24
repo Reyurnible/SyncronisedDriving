@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- Main Activity -->
+    <dimen name="activity_main_meter_size">200dp</dimen>
+    <dimen name="activity_main_meter_horizontal_margin">48dp</dimen>
+    <dimen name="activity_main_meter_vertical_margin">24dp</dimen>
+    <dimen name="activity_main_meter_line_width">64dp</dimen>
+    <dimen name="activity_main_meter_line_height">4dp</dimen>
+    <dimen name="activity_main_meter_center_vertivle_margin">4dp</dimen>
+    <dimen name="activity_main_header_size">24dp</dimen>
+    <dimen name="activity_main_header_label_size">24dp</dimen>
+    <dimen name="activity_main_button_size">72dp</dimen>
+    
+   <!-- Finish Activity -->
+   <dimen name="activity_finish_verticle_top">24dp</dimen>
+   <dimen name="activity_finish_card_padding">16dp</dimen>
+   <dimen name="activity_finish_verticle_margin">8dp</dimen>
+   <dimen name="activity_finish_horizontal_margin">16dp</dimen>
+   <dimen name="activity_finish_textview_height">48dp</dimen>
+   <dimen name="activity_finish_button_padding">48dp</dimen>
+   <dimen name="activity_finish_progress_height">36dp</dimen>
+   <dimen name="activity_finish_text_title">20sp</dimen>
+   <dimen name="activity_finish_text">20sp</dimen> 
+   
+    <!-- Start setting -->
+   <dimen name="activity_start_ic_size">48dp</dimen>
+   
+</resources>
