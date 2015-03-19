@@ -9,26 +9,26 @@ import android.widget.TextView;
 import com.reyurnible.syncronizeddrivind.R;
 
 public class CustomTextView extends TextView {
-	 
+
     private String mFont = "A-OTF-UDShinMGoPro-DeBold.otf";
- 
+
     public CustomTextView(Context context, AttributeSet attrs, int defStyle) {
         super(context, attrs, defStyle);
         getFont(context, attrs);
         init();
     }
- 
+
     public CustomTextView(Context context, AttributeSet attrs) {
         super(context, attrs);
         getFont(context, attrs);
         init();
     }
- 
+
     public CustomTextView(Context context) {
         super(context);
         init();
     }
- 
+
     /**
      * フォントファイルを読み込む
      *
@@ -40,7 +40,7 @@ public class CustomTextView extends TextView {
         mFont = a.getString(R.styleable.CustomTextView_font);
         a.recycle();
     }
- 
+
     /**
      * フォントを反映
      */

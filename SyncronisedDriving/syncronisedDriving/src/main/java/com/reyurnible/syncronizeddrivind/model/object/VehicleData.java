@@ -19,6 +19,6 @@ public class VehicleData {
 	//シフトポジションを取得。
 	public String trsmGearPosn;
 	//位置を入力
-	public PosN posN; 
+	public PosN posN;
 	
 }

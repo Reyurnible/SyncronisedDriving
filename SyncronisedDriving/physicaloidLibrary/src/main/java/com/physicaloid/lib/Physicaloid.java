@@ -16,6 +16,7 @@
 
 package com.physicaloid.lib;
 
+
 import android.content.Context;
 import android.util.Log;
 
@@ -30,6 +31,7 @@ import com.physicaloid.lib.usb.driver.uart.UartConfig;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.InputStream;
+
 
 public class Physicaloid {
     private static final boolean DEBUG_SHOW = true && BuildConfig.DEBUG;

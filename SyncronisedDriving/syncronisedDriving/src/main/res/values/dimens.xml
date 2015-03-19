@@ -5,7 +5,7 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
     <!-- Main Activity -->
     <dimen name="activity_main_meter_size">200dp</dimen>
-    <dimen name="activity_main_meter_horizontal_margin">48dp</dimen>
+    <dimen name="activity_main_meter_horizontal_margin">24dp</dimen>
     <dimen name="activity_main_meter_vertical_margin">24dp</dimen>
     <dimen name="activity_main_meter_line_width">64dp</dimen>
     <dimen name="activity_main_meter_line_height">4dp</dimen>
@@ -13,6 +13,7 @@
     <dimen name="activity_main_header_size">24dp</dimen>
     <dimen name="activity_main_header_label_size">24dp</dimen>
     <dimen name="activity_main_button_size">72dp</dimen>
+    <dimen name="activity_main_meter_bottom_margin">24dp</dimen>
     
    <!-- Finish Activity -->
    <dimen name="activity_finish_verticle_top">24dp</dimen>
@@ -27,5 +28,7 @@
    
     <!-- Start setting -->
    <dimen name="activity_start_ic_size">48dp</dimen>
-   
+
+    <dimen name="text_size_normal">14sp</dimen>
+
 </resources>
